@@ -6,7 +6,7 @@ Features
 1. Pizza Selection
 Customers can browse through a wide variety of pizza options, each with a mouthwatering description and high-quality images.
 2. Shopping Cart
-Customers can add and remove pizzas from their shopping cart, review their selections, and update quantities.
+Customers can add pizzas from their shopping cart, review their selections, and update quantities.
 . Payment Integration
 The app uses Razorpay for secure and efficient payment processing, ensuring a smooth checkout experience.
 . Responsive Design
