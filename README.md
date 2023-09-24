@@ -2,6 +2,16 @@
 __Welcome to the Pizza Ordering App! This web application is designed to provide a seamless and user-friendly experience for customers looking to order delicious pizzas online. In this document, you'll find an overview of the app's features, technologies used, and how to get started with development.__
 
 ### Your site is live at https://kaisama.github.io/Pizza_Web_Application/
+### Showing Some Pictures:
+![a1](https://github.com/Kaisama/Pizza_Web_Application/assets/109125241/995269e5-9102-4480-a1bc-4f82e41e3456)
+
+![a2](https://github.com/Kaisama/Pizza_Web_Application/assets/109125241/384c50e7-3fce-4ce6-8226-bac8e0f2234a)
+
+![a3](https://github.com/Kaisama/Pizza_Web_Application/assets/109125241/decd1ed4-3eba-4526-8c4f-6c1cd937bf83)
+
+![a4](https://github.com/Kaisama/Pizza_Web_Application/assets/109125241/755a9776-96a6-4c51-8147-6ec9d4ab5df3)
+
+![a5](https://github.com/Kaisama/Pizza_Web_Application/assets/109125241/7d7dc747-f932-4ead-b2a6-05719181f516)
 
 ## Features
 ### 1. Pizza Selection:
